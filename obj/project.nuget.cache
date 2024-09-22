@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "99hA02Ay1Y4=",
+  "success": true,
+  "projectFilePath": "/Users/CodeKanya/Learn/MyConsoleApp/MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/CodeKanya/.nuget/packages/dumpify/0.6.6/dumpify.0.6.6.nupkg.sha512",
+    "/Users/CodeKanya/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/CodeKanya/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/Users/CodeKanya/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
